@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hariom akhand</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="logo">
+
+
 - 🌱 I’m currently learning **JS And React js**
 
 - 💬 Ask me about **Html , CSS , Java Sript**
